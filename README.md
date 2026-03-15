@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi There 👋, I'm João Pedro
+**`👩🏻‍💻 About Me`**
 
-<!--
-**JoaoPedrodr/JoaoPedrodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 20 years old, and I'm currently a student of Information Systems at UFVJM. I'm passionate about technology and innovation 🚀.
 
-Here are some ideas to get you started:
+---
+### 🤖 Languages ​​and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+    align="left" 
+    alt="PYTHON" 
+    title="PYTHON"
+    width="30px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+align="left" 
+    alt="C" 
+    title="C"
+    width="30px"
+     style="padding-right: 10px;"  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+<img 
+align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px"
+     style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+          
+
+<img 
+align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px"
+     style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Statistics
+
+<img 
+align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    style="padding-right: 10px;" 
+src="https://github-readme-stats.vercel.app/api?username=JoaoPedrodr&show_icons=true&theme=tokyonight&include_all_commits=true" 
+/>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrodr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>                           
